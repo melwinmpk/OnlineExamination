@@ -1,0 +1,106 @@
+1.  FORTRAN is a programming language. What does FORTRAN stand for?
+A) File Translation
+B) Format Translation
+C) Formula Translation
+D) Floppy Translation
+ANS B
+
+2.Who is father of C Language?
+A.
+
+Bjarne Stroustrup
+B.
+
+James A. Gosling
+C.
+
+Dennis Ritchie
+D.
+
+Dr. E.F. Codd
+ANS C
+
+
+3.C Language developed at _________?
+A.
+
+AT & T's Bell Laboratories of USA in 1972
+B.
+
+AT & T's Bell Laboratories of USA in 1970
+C.
+
+Sun Microsystems in 1973
+D.
+
+Cambridge University in 1972
+ANS   A
+
+
+4.For 16-bit compiler allowable range for integer constants is ________?
+A.
+
+-3.4e38 to 3.4e38
+B.
+
+-32767 to 32768
+C.
+
+-32668 to 32667
+D.
+
+-32768 to 32767
+ 
+ANS D
+
+
+5.C programs are converted into machine language with the help of
+A.
+
+An Editor
+B.
+
+A compiler
+C.
+
+An operating system
+D.
+
+None of these.
+
+ANS B
+
+
+6. C was primarily developed as
+A.
+
+System programming language
+B.
+
+General purpose language
+C.
+
+Data processing language
+D.
+
+None of the above.
+ANS A
+
+
+7. Standard ANSI C recognizes ______ number of keywords?
+A.
+
+30
+B.
+
+32
+C.
+
+24
+D.
+
+36
+E.
+
+40
+ANS B

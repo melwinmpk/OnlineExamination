@@ -1,0 +1,44 @@
+               DBMS QUESTIONS
+1. Database __________ , which is the logical design of the database, and the database _______,which is a snapshot of the data in the database at a given instant in time.
+a) Instance, Schema
+b) Relation, Schema
+c) Relation, Domain
+d) Schema, Instance
+ANS D
+2. The_____ operation allows the combining of two relations by merging pairs of tuples, one from each relation, into a single tuple.
+a) Select
+b) Join
+c) Union
+d) Intersection
+ANS B
+3.  The result which operation contains all pairs of tuples from the two relations, regardless of whether their attribute values match.
+a) Join
+b) Cartesian product
+c) Intersection
+d) Set difference
+
+Answer:b
+4.. Relational Algebra is a __________ query language that takes two relation as input and produces another relation as output of the query.
+a) Relational
+b) Structural
+c) Procedural
+d) Fundamental
+
+
+Answer:c
+5. Which of the following is used to denote the selection operation in relational algebra ?
+a) Pi (Greek)
+b) Sigma (Greek)
+c) Lambda (Greek)
+d) Omega (Greek)
+
+
+Answer:b
+6. Which one of the following is used to define the structure of the relation ,deleting relations and relating schemas ?
+a) DML(Data Manipulation Langauge)
+b) DDL(Data Definition Langauge)
+c) Query
+d) Relational Schema
+
+
+Answer:b

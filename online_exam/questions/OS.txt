@@ -1,0 +1,57 @@
+  OS QUESTIONS
+1. In operating system, each process has its own
+a) address space and global variables
+b) open files
+c) pending alarms, signals and signal handlers
+d) all of the mentioned
+
+
+Answer:d
+
+2.In Unix, Which system call creates the new process?
+a) fork
+b) create
+c) new
+d) none of the mentioned
+
+
+Answer:a
+3.A process can be terminated due to
+a) normal exit
+b) fatal error
+c) killed by another process
+d) all of the mentioned
+
+
+Answer:d
+4.Which process can be affected by other processes executing in the system?
+a) cooperating process
+b) child process
+c) parent process
+d) init process
+
+
+Answer:a
+5.  A semaphore is a shared integer variable
+a) that can not drop below zero
+b) that can not be more than zero
+c) that can not drop below one
+d) that can not be more than one
+
+Answer:a
+6.Mutual exclusion can be provided by the
+a) mutex locks
+b) binary semaphores
+c) both (a) and (b)
+d) none of the mentioned
+
+
+Answer:c
+7.Process synchronization can be done on
+a) hardware level
+b) software level
+c) both (a) and (b)
+d) none of the mentioned
+
+
+Answer:c
